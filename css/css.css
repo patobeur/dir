@@ -1,0 +1,6 @@
+.file {
+    background-image: url(dir/img/file.svg);
+}
+.dir {
+    background-color : rgba(146, 11, 11, 0.5)
+}
